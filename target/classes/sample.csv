@@ -1,0 +1,17 @@
+id,username,password,email,name,firstName,lastName
+1,adminadmin,admin,admin@group.com,admin,admin,admin
+2,juangarcia,juangc,juan@babelgroup.com,Juan,Garcia,Carballo
+3,laurahuertes,laura,laura@babelgroup.com,Laura,Huertes,YOQSE
+4,albertomendiolagoitia,albertoms,alberto@babelgroup.com,Alberto,Alberto,Mendiolagoitia
+5,alvaromorales,alvaromp,alvaro@babelgroup.com,Alvaro,Álvaro,Morales
+6,jesussantos,jesussb,jesus@babelgroup.com,Jesus,Jesús,Santos
+7,pablomontero,monteropg,pablo@babelgroup.com,Pablo,Pablo,Montero
+8,juanpedrogallardo,juanpgp,juanpedro@babelgroup.com,JuanP,Juan Pedro,Gallardo
+9,albertocarmona,albertoc,albertoc@babelgroup.com,Alberto,Alberto,Carmona
+10,oscargail,oscargb,oscar@babelgroup.com,Oscar,Óscar,Gail
+11,juanantoniomontes,juanamz,juanantonio@babelgroup.com,JuanA,Juan Antonio,Montes
+12,taniareyes,taniarf,tania@babelgroup.com,Tania,Tania,Reyes
+13,marcosmorales,marcosmm,marcos@babelgroup.com,Marcos,Marcos,Morales
+14,laurareyes,laurarc,laurac@babelgroup.com,Laura,Laura,Reyes
+15,aitorjimenez,aitorjs,aitor@babelgroup.com,Aitor,Aitor,Jiménez
+16,laurahuertes,laurahr,laurah@babelgroup.com,Laura,Laura,Huertes
